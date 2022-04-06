@@ -27,9 +27,11 @@ body{
     border-radius: 1.5rem;
     padding: 1.5rem;
     margin: 2rem auto;
+    min-height: 400px;
 }
 .qr-img{
     width: 98%;
+    height: 50vh;
     margin-bottom: 2rem;
     border-radius: 1.5rem;
 }
@@ -52,6 +54,5 @@ body{
     }
     .qr-img{
         height: 50vh;
-        
     }
 }
